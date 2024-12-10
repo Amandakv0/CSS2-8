@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mainWhiteFraim{
+    border: 96px solid #FFAEAF;
+    padding: 96px 0px;
+    margin: 0 auto;
+    width: 1200px;
+    text-align: center;
+}
+#headerFrame{
+    margin-bottom: 95px;
+    text-align: center;
+    width: 100%;
+}
+#blog{
+    color: #ED00A6;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 12px;
+}
+#header{
+    padding-bottom: 24px;
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+}
+#subParag{
+    color: #535862;
+    font-size: 20px;
+}
+#firstBigContainer,
+#thirdBigContainer{
+    margin-left: 60px;
+    width: 100%;
+    text-align: left;
+}
+#secondBigContainer{
+    text-align: right;
+    margin-top: 60px;
+}
+#thirdBigContainer{
+    margin-top: 60px;
+}
+#firstImg, #secondImg, #thirdImng{
+    width: 500px;
+    height: 320px;
+}
