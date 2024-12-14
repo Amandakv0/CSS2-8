@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    padding: 60px 0px;
+}
 #mainWhiteFraim{
     border: 96px solid #FFAEAF;
     padding: 96px 0px;
